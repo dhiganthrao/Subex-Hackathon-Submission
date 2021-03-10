@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+labels/
+Output/
+Subex Hackathon Dataset/
+environment.yml
+Result.txt
+*.zip
+Miscellaneous.ipynb
+weights.csv
+__pycache__
